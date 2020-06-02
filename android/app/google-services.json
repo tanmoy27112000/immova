@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "478855374668",
+    "firebase_url": "https://immova-3230d.firebaseio.com",
+    "project_id": "immova-3230d",
+    "storage_bucket": "immova-3230d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:478855374668:android:25f521dedd3dbbb0b511e9",
+        "android_client_info": {
+          "package_name": "com.example.immova"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "478855374668-scidk1tpl148c1moehoesid1091ea969.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.immova",
+            "certificate_hash": "d3f57d4fb73eb77bc11dcf467c8cb5d1a0986004"
+          }
+        },
+        {
+          "client_id": "478855374668-k61s88rq5qb1lssja7rg7qelkhg6o4kv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDDgb5Jz22uJCDXasDMIxzLQvhaWV6-T1A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "478855374668-k61s88rq5qb1lssja7rg7qelkhg6o4kv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
